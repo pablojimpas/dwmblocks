@@ -15,8 +15,8 @@ static const Block blocks[] = {
 	/* {"",	"price eth Ethereum 🍸",	9000,	23}, */
 	/* {"",	"price btc Bitcoin 💰",				9000,	21}, */
 	{"",	"torrent",	20,	7},
-	{"",	"moonphase",	18000,	17},
-	{"",	"forecast",	18000,	5},
+	/* {"",	"moonphase",	18000,	17}, */
+	/* {"",	"forecast",	18000,	5}, */
 	/* {"",	"memory",	10,	14}, */
 	/* {"",	"cpu",		10,	18}, */
 	{"",	"nettraf",	1,	16},
@@ -24,7 +24,7 @@ static const Block blocks[] = {
 	{"",	"volume",	0,	10},
 	{"",	"battery",	5,	3},
 	{"",	"clock",	60,	1},
-	{"",	"help-icon",	0,	15},
+	/* {"",	"help-icon",	0,	15}, */
 };
 
 //Sets delimiter between status commands. NULL character ('\0') means no delimiter.
