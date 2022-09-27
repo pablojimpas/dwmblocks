@@ -8,10 +8,11 @@ static const Block blocks[] = {
 	/* {"",	"sb-price lbc \"LBRY Token\" 📚",			9000,	22}, */
 	/* {"",	"sb-price bat \"Basic Attention Token\" 🦁",	9000,	20}, */
 	/* {"",	"sb-price link \"Chainlink\" 🔗",			300,	25}, */
-	/* {"",	"sb-price xmr \"Monero\" 🔒",			9000,	24}, */
+	{"",	"sb-price xmr \"Monero\" 🔒",			9000,	24},
 	/* {"",	"sb-price eth Ethereum 🍸",	9000,	23}, */
-	/* {"",	"sb-price btc Bitcoin 💰",				9000,	21}, */
+	{"",	"sb-price btc Bitcoin 💰",				9000,	21},
 	{"",	"sb-moonphase",	18000,	17},
+	{"",	"sb-radar-aemet",	18000,	5},
 	{"",	"sb-forecast",	18000,	5},
 	{"",	"sb-mailbox",	180,	12},
 	{"",	"sb-news",	180,	6},
